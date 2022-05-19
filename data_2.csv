@@ -1,6 +1,5 @@
-﻿ids,labels,parents 
-Sosser,Rancagua,DPRP42
-Sosser,DPRP43,Rancagua
-Sosser,san fernando,patricio
-Sosser,hello,san fernando
-Sosser,san fernando - hello - ,
+﻿ids,parents,labels
+sosser1,,rancagua
+sosser2,,san fernando
+sosser3,,paine
+sosser4,DPRP43,paine
