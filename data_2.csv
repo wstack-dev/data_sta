@@ -1,5 +1,5 @@
-﻿ids,parents,labels
-sosser1,,rancagua
-sosser2,,san fernando
-sosser3,,paine
-sosser4,DPRP43,paine
+﻿ids,labels,parents
+sosser1,rancagua,
+sosser2,san fernando,
+sosser3,paine,
+sosser4,rancagua,DPRP43
